@@ -1,0 +1,2 @@
+# sanedash
+Simple rainmeter config.
